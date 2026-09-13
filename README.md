@@ -21,6 +21,7 @@ MM_Empty_Tray has no cutouts. It's a blank tray to create your own.
 
 Step 2: Put two threaded inserts into the MM_Main_CubeCase and four threaded inserts into the xxx_Tray. Use the outmost four holes on the tray. 
 
+Check the videos for full build guides ...
 
 Cyberpunk Edition
 ![Cyberpunk Edition](https://github.com/RetroIsTheNewBlack/retrobox/blob/main/images/2.JPG)
