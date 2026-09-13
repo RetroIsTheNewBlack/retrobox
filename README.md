@@ -11,6 +11,16 @@ Part 2 (Raspberry PI):
 
 Part 3 (MiSTer): 
 
+How to build:
+Step 0: Order all needed parts from the bom.xlsx
+
+Step 1: Print all the parts needed for your project
+Print at least MM_Main_CubeCase, MM_Button, one of the xxx_Tray files and one of the xx_Buttoncover files. If you use the xx_Buttoncover_only variant, also print MM_LightstripCover_only. 
+
+MM_Empty_Tray has no cutouts. It's a blank tray to create your own.
+
+Step 2: Put two threaded inserts into the MM_Main_CubeCase and four threaded inserts into the xxx_Tray. Use the outmost four holes on the tray. 
+
 
 Cyberpunk Edition
 ![Cyberpunk Edition](https://github.com/RetroIsTheNewBlack/retrobox/blob/main/images/2.JPG)
